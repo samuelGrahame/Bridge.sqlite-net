@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge.sqlite-net", "Bridge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge.sqlite-net.Tests", "..\Bridge.sqlite-net.Tests\Bridge.sqlite-net.Tests.csproj", "{89B81391-E396-4A1D-8556-D87B1A03E9B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge.sqlite-net.xtension", "..\Bridge.sqlite-net.xtension\Bridge.sqlite-net.xtension.csproj", "{138B3CA3-B89E-4657-A9AF-D9ED8AF7F001}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bridge.sqlite-net.extension", "..\Bridge.sqlite-net.xtension\Bridge.sqlite-net.extension.csproj", "{138B3CA3-B89E-4657-A9AF-D9ED8AF7F001}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
