@@ -34,10 +34,14 @@
     <NoStdLib>true</NoStdLib>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="SQLiteCommand.cs" />
+    <Compile Include="SQLiteParameter.cs" />
+    <Compile Include="SQLiteParser.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="SQLiteConnection.cs" />
     <Compile Include="SQLiteStorageModes.cs" />
     <Compile Include="SQLiteTableMeta.cs" />
+    <Compile Include="SQLiteTokenReader.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Bridge, Version=17.4.0.0, Culture=neutral, processorArchitecture=MSIL">
